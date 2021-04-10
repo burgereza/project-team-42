@@ -2,6 +2,6 @@
 ## Team 42
 
 ### Team Members:
-- Student1 99101921
+- Student1 99101921 MohammadHossein AliHosseini
 - Student2 99105634
 - Student3 99100000
